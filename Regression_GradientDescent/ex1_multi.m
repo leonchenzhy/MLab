@@ -1,4 +1,4 @@
-Exercise 1: Linear regression with multiple variables
+%Exercise 1: Linear regression with multiple variables
 
 %% Initialization
 
